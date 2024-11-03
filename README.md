@@ -19,8 +19,3 @@ Este script en Bash clasifica los archivos en la carpeta de Descargas y los muev
 
 - Sistema operativo basado en Unix (Linux, macOS).
 - Bash shell.
-
-
-# Instalación
-
-1. Clona este repositorio (o descarga el script directamente):
